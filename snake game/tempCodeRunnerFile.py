@@ -1,0 +1,1 @@
+screen_of_game.onkey(fun='forward',key="w")
